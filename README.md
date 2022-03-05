@@ -28,3 +28,5 @@ The table takes the following order:
 ## Example 
 You can find my implementation of the type chart here:
 https://alexbartlett.com/pages/pokemonTypes
+
+If you use it for your project let me know, I'd love to check it out.
